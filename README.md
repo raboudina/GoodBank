@@ -4,8 +4,23 @@ GoodBank Excercise
 
 # Description/Motivation:
 
-The reasons why this project exists, including the answers to pertinent questions such as whom does it help, why did you build it, and what business or personal problem does it solve.
+This is the capstone project of the MIT full-stack bootcamp. The motivation behind it is to show the different web developement skills that I have learned over the course of this program. The project is a simple banking application that allows users to:
+- Create acconts
+- Login ot their accounts
+- Deposit money
+- Withdraw money
+- Check their account balance
+- See a list of their transactions
+- Edit account information, change passwords, or delete accounts.
 
+It also allows admins to:
+  - See a list of all users in the bank
+  - Check the current balance of any user
+  - Check the recent transactions of any user
+  - Delete the account of any user
+  
+  
+# Installation Guidelines: Clear instructions on how to get your project up and running (e.g., git clone, git pull, npm init).
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -77,10 +92,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+# License: 
+MIT Liscence
 
 
 Installation Guidelines: Clear instructions on how to get your project up and running (e.g., git clone, git pull, npm init).
 Screenshots: Screenshots or a GIF of your project in action.
 Technology used: Your technology stack, listed out. 
 Features: Your project’s features, and any future features you would like to include.
-License: Details of under what type of license (e.g., MIT, Apache) your project is listed. If you don’t know, take a look at your package.json—it will have the default license that you chose when you created your project.
